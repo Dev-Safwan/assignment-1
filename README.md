@@ -1,4 +1,4 @@
-#Visit site: <a href"https://dev-safwan.github.io/assignment-1/">https://dev-safwan.github.io/assignment-1/#</a>
+# Visit site: https://dev-safwan.github.io/assignment-1/#
 
 # HelloSwaps
 
